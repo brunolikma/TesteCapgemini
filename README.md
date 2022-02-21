@@ -1,6 +1,7 @@
 # TesteCapgemini
 
-Os 3 desafios estão respectivos pacotes dentro do SRC para rodar basta executar a classe main dentro de cada pacote
+Os 3 desafios estão no seus respectivos pacotes dentro deste projeto. Para rodar basta executar a classe main dentro de cada pacote. 
+Ex: Questao01Main.java
 
 ## Neste projeto foi utiliado
 
